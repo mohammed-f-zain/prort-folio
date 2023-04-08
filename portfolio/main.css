@@ -85,8 +85,6 @@ body {
   }
 }
 
-/*---------------------------------------*/
-/* Start Navbar */
 .navbar {
   background-color: var(--secondarycolor);
   display: flex;
@@ -183,9 +181,6 @@ nav ul li a:hover::after {
   }
 }
 
-/* End Navbar */
-/*---------------------------------------*/
-/* Start Home */
 
 .home {
   position: relative;
@@ -219,9 +214,6 @@ nav ul li a:hover::after {
   color: var(--thirdcolor);
 }
 
-/* End Home */
-/*---------------------------------------*/
-/* Start About Me Section */
 
 .about-me .container {
   display: flex;
@@ -248,9 +240,7 @@ nav ul li a:hover::after {
   width: 200px;
 }
 
-/* End About Me Section */
-/*---------------------------------------*/
-/* Start Projects Section */
+
 
 .projects .container {
   display: grid;
@@ -292,9 +282,7 @@ nav ul li a:hover::after {
   margin: 80px auto;
 }
 
-/* End Projects Section */
-/*---------------------------------------*/
-/* Start Contact Us Section */
+
 
 .contact-us .container {
   display: flex;
@@ -381,9 +369,7 @@ form button {
   -o-border-radius: 20px;
 }
 
-/* End Contact Us Section */
-/*---------------------------------------*/
-/* Start Read More Page */
+
 
 .btn-nav {
   position: relative;
@@ -409,9 +395,7 @@ form button {
   text-align: center;
 }
 
-/* End Read More Page */
-/*---------------------------------------*/
-/* Start Footer */
+
 
 .footer {
   background-color: var(--secondarycolor);
@@ -433,5 +417,4 @@ form button {
   padding-right: 15px;
 }
 
-/* End Footer */
-/*---------------------------------------*/
+
