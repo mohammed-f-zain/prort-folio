@@ -275,6 +275,7 @@ nav ul li a:hover::after {
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
+  padding: 25px;
 }
 
 .col-project p {
